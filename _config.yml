@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            TroopJS Blog
 locale:           en_US
-url:              http://localhost:4000
+url:              http://blog.troopjs.com
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: TroopJS Team
+  avatar: 
+  bio: "TroopJS core contributors"
   email: 
   disqus-shortname: 
   twitter: #username
