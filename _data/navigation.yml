@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Main
-  url: http://troopjs.com
-
-- title: Archive
+- title: Posts
   url: /posts/
+
+- title: TroopJS.com
+  url: http://troopjs.com

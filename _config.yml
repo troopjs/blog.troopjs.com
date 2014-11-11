@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            TroopJS Blog
+title:            TroopJS.blog
 locale:           en_US
 url:              http://blog.troopjs.com
 
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: TroopJS Team
   avatar: 
-  bio: "TroopJS core contributors"
-  email: 
+  bio:
+  email: hello@troopjs.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: troopjs
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
