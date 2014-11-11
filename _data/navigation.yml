@@ -1,13 +1,7 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Main
+  url: http://troopjs.com
 
-- title: Sample Posts
+- title: Archive
   url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
