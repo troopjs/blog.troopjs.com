@@ -4,6 +4,7 @@ title: "Service Proxy Proposal"
 excerpt: "A discussion around service locator and service proxies"
 tags: [3.x, enhancement]
 link: https://github.com/troopjs/troopjs/issues/93
+author: mikaelkaron
 share: true
 ---
 
