@@ -2,14 +2,16 @@
 
 mikaelkaron:
   name: Mikael Karon
+  avatar: https://www.gravatar.com/avatar/e9a4f62d8d36f41beab514562fa43ccf
+  bio: "_lagom_ is the new black"
   email: mikael@karon.se
-  bio:
-  avatar: https://avatars.githubusercontent.com/u/478468
   twitter: mikaelkaron
-  github: mikaelkaron
-  linkedin: mikaelkaron
   google:
     plus: mikaelkaron
+  github: mikaelkaron
+  stackoverflow: 232488/mikael-karon
+  linkedin: mikaelkaron
+  youtube: mikaelkaron
 
 eyalar:
   name: Eyal Arubas
